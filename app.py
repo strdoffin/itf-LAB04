@@ -1,1 +1,2 @@
-print("Hello #04")
+def main():
+    print("eww")
