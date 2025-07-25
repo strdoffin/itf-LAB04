@@ -1,2 +1,3 @@
 def main():
-    print("eww")
+    i = 0
+    print(i)
